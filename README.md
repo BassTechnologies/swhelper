@@ -1,4 +1,4 @@
-# swhelper
+# Script Write Helper [SWHelper]
 
 The script displays all functions by entering the beginning of the word.
 Works with UDF & other files.
